@@ -1,5 +1,4 @@
 # NWD
-Scripts, material for NWD.
 
 This is an archive for files related to the Nordic Word Order Database (Lundquist et al. 2019). The archive includes test material, experiment scripts, and analysis scripts and guidelines.
 
