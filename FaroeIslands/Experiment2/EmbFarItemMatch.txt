@@ -1,4 +1,4 @@
-type	UniqueNumber	Word.order	Realisation1
+type	UniqueNumber	Word.order	Realization1
 Read	101		Eg seti meg ofta aftast ’ bussinum.
 Read	103		Eg smyrji m¾r ongant’_ um gerandisdagarnar.
 Read	105		Eg raki m¾r alt’_ um morgunin.

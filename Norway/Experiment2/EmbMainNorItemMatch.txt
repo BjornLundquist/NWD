@@ -1,4 +1,4 @@
-type	UniqueNumber	Word.order	Realisation1
+type	UniqueNumber	Word.order	Realization1
 Read	101		Jeg setter meg ofte lengst bak i bussen.
 Read	102		Jeg setter meg ofte lengst bak i bussen.
 Read	103		Jeg sminker meg aldri på hverdager.

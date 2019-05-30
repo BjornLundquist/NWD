@@ -1,4 +1,4 @@
-type	UniqueNumber	Word.order	Realisation1
+type	UniqueNumber	Word.order	Realization1
 Read	101		Læreren skyndte sig hjem fra arbejde i går.
 Read	102		Han skyndte sig hjem fra arbejde i går.
 Read	103		Skuespilleren vendte sig pludselig mod publikum.
