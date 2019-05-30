@@ -2,22 +2,20 @@
 
 This is an archive for files related to the Nordic Word Order Database (Lundquist et al. 2019). The archive includes test material, experiment scripts, and analysis scripts and guidelines.
 
-Analysis
-+ ELAN
-+ R
-+ Guidelines
+[Analysis](https://github.com/BjornLundquist/NWD/tree/master/Analysis)
++ ELAN templates
++ R scripts for analysis
++ Guidelines for annotation
 
-Folders with experimental materials organised per location:
+Folders with experiment scripts (OpenSesame files and material) organised per location:
 + [Denmark](https://github.com/BjornLundquist/NWD/tree/master/Denmark)
 + [Faroe Islands](https://github.com/BjornLundquist/NWD/tree/master/FaroeIslands)
 + [Iceland](https://github.com/BjornLundquist/NWD/tree/master/Iceland)
 + [Norway](https://github.com/BjornLundquist/NWD/tree/master/Norway)
   + Tromsø
-    + Kongsbakken VGS
-    + Tromsdalen VGS
-  + Oslo
+  + Oslo (only experiment 1)
 + [Sweden](https://github.com/BjornLundquist/NWD/tree/master/Sweden)
   + Stockholm
-  + Gothenburg
+  + Gothenburg (only experiment 1)
 
-April 2019, Maud Westendorp & Björn Lundquist
+May 2019, Maud Westendorp & Björn Lundquist
